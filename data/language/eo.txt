@@ -40,33 +40,33 @@ STR_0035    :Karuselo
 STR_0036    :Nekonata budo (22)
 STR_0037    :Informbudo
 STR_0038    :Necesejoj
-STR_0039    :Ferris Wheel
-STR_0040    :Motion Simulator
-STR_0041    :3D Cinema
-STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Reverse Freefall Coaster
-STR_0045    :Lift
-STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :Cash Machine
-STR_0048    :Twist
-STR_0049    :Haunted House
-STR_0050    :First Aid Room
-STR_0051    :Circus
-STR_0052    :Ghost Train
-STR_0053    :Twister Roller Coaster
-STR_0054    :Wooden Roller Coaster
-STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Steel Wild Mouse
-STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Roller Coaster
-STR_0060    :Unknown Ride (3A)
-STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
-STR_0063    :Mini Helicopters
-STR_0064    :Lay-down Roller Coaster
-STR_0065    :Suspended Monorail
+STR_0039    :Radego
+STR_0040    :Moviĝado-simulilo
+STR_0041    :3D-kinejo
+STR_0042    :Kirlumado
+STR_0043    :Kosmoringoj
+STR_0044    :Invertita liberfala veturado
+STR_0045    :Lifto
+STR_0046    :Vertikala faliga onda fervojo
+STR_0047    :Monmaŝino
+STR_0048    :Turnilo
+STR_0049    :Fantomejo
+STR_0050    :Unuahelpejo
+STR_0051    :Cirko
+STR_0052    :Fantomtrajno
+STR_0053    :Turnila onda fervojo
+STR_0054    :Ligna onda fervojo
+STR_0055    :Flankfrota onda fervojo
+STR_0056    :Ŝtala sovaĝa muso
+STR_0057    :Multdimensia onda fervojo
+STR_0058    :Nekonata atrakcio (38)
+STR_0059    :Fluganta onda fervojo
+STR_0060    :Nekonata atrakcio (3A)
+STR_0061    :Virginia relo
+STR_0062    :Malsekigaj boatoj
+STR_0063    :Helikopteretoj
+STR_0064    :Kuŝa onda fervojo
+STR_0065    :Pendanta unurela fervojo
 STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
